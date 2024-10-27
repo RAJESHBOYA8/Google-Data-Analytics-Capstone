@@ -31,5 +31,5 @@ The steps included data cleaning, analysis, visualization, and generating recomm
 
 ## 📜 Certificate
 
-You can view my Google Data Analytics Professional Certificate here: [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/verify/SN67NUNZ8R8D?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
+You can view my Google Data Analytics Professional Certificate here: [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/TK9DMKL8NJMZ)
 ![](https://github.com/user-attachments/assets/0455c1b2-ef78-49db-83b6-757bd287f083)
